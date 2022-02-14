@@ -1,5 +1,5 @@
 # Vinita-Umesh
-<h2>Hi There!</h2>
+<h2>Hi There!👋</h2>
 
 I'm Vinita, and I'm passionated about cybersecurity 🤞
 
